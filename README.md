@@ -11,7 +11,12 @@ Prcedure : Clone the Project in your local machine,
 
 open with editor(VS code)
 
+do
+
 ----- npm install
+
+ then
+
  -----npm start
  
 
