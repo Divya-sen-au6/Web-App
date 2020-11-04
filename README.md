@@ -3,7 +3,7 @@
 
 #React.js Single Page Web Application
 
-The Web App is only made by React.js with JS,CSS.
+The Web App is only made in React.js with JS,CSS.
 
 There are not any Third party library used.
 
